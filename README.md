@@ -32,3 +32,14 @@ Java Version: 8 or above.
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
+
+
+Steps:
+
+1. Url : http://localhost:8080
+2. Enter your github credentials
+3. After successfully authentication it automatically redirect to success response.
+
+
+Oauth flow:
+https://docs.google.com/document/d/13xdNRKpRH058DcUSufggriIEDO3NLU6RVhqxHu0lAVM/edit
